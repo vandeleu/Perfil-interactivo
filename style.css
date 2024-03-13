@@ -1,0 +1,70 @@
+h1{
+            
+    padding: 20px 100px;
+    padding-left: 500px;
+
+}
+
+
+h2{
+    
+    padding: 20px;
+    padding-left: 500px;
+}
+h3{
+   
+    padding: 20px;
+    padding-left: 500px;
+}
+li{
+    
+    padding-left: 500px;
+}
+
+
+
+button{
+    display: block;
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: purple;
+    border-radius: 10px;
+    padding: 15px 60px;
+    margin: 100px 130px;
+    color: #fff;
+    text-decoration: none;
+
+}
+
+form{
+    padding: 20px;
+    padding-left: 100px;  
+}
+
+body{
+    background-color: #B975C0;
+}
+
+li{
+    list-style: none;
+    font-style: italic;
+}
+
+h1{
+    font-style: italic;
+}
+h2{
+    font-style: italic;
+}
+
+h3{
+    font-style: italic;
+}
+p{
+    font-style: italic;
+}
+#halo{
+    width: 300px;
+    height: 200px;
+}
